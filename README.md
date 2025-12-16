@@ -53,6 +53,6 @@ Due to size constraints, raw data files and processed tensors are **not included
 ## Links
 - 📽 Presentation Video: https://drive.google.com/file/d/13fg7zIp8wZUpDQTomRgvbfDmrmSlGIVA/view?usp=drive_link
 - 📊 Presentation Slides: https://drive.google.com/file/d/197S_Vu4A57aL4YVlvDs_7N_SPRWZG0gC/view?usp=drive_link 
-- 📄 Final Report: https://drive.google.com/drive/folders/1edBi_kKNAD2DFn-QFpijO4OtjfYAFybD?usp=drive_link
+- 📄 Final Report: https://drive.google.com/file/d/1qrB01NqrjQKxfts6E6kQVOIDF1JiUMfj/view?usp=drive_link 
 - 📂 Dataset: 
 - 🎥 Demo Video: https://youtu.be/z_c_BXrvBm0
