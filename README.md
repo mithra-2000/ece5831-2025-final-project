@@ -1,5 +1,5 @@
 # Interpretable Hybrid Model for Visual Pattern Recognition  
-**ECE 5831 – Pattern Recognition and Neural Networks **  
+ECE 5831 – Pattern Recognition and Neural Networks 
 University of Michigan–Dearborn  
 Academic Year: 2024–2026
 
@@ -51,8 +51,8 @@ Due to size constraints, raw data files and processed tensors are **not included
 
 
 ## Links
-- 📽 Presentation Video: [YouTube Link]
-- 📊 Presentation Slides: presentation/final_presentation.pptx
-- 📄 Final Report: report/final_report.pdf
-- 📂 Dataset: dataset/fashion-mnist.zip
+- 📽 Presentation Video: https://drive.google.com/file/d/13fg7zIp8wZUpDQTomRgvbfDmrmSlGIVA/view?usp=drive_link
+- 📊 Presentation Slides: https://drive.google.com/drive/folders/1T91gMwFeSWpIEJRMPRjVxpSR2Gz5Ylz5?usp=drive_link
+- 📄 Final Report: https://drive.google.com/drive/folders/1edBi_kKNAD2DFn-QFpijO4OtjfYAFybD?usp=drive_link
+- 📂 Dataset: 
 - 🎥 Demo Video: https://youtu.be/z_c_BXrvBm0
